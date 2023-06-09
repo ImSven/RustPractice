@@ -1,0 +1,2 @@
+# RustPractice
+rust practice code
